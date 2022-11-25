@@ -1,11 +1,16 @@
 ---
-title: "Confetti Example"
+title: "Confetti"
+subtitle: "A Revealjs plugin"
 format:
   revealjs: 
     confetti:
       particleCount: 150
       angle: 90
       spread: 360
+      startVelocity: 25
+      gravity: 0.65
+      drift: 0
+      ticks: 400
 revealjs-plugins:
   - confetti
 ---

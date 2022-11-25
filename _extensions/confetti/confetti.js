@@ -23,6 +23,11 @@ window.RevealConfetti = function () {
           particleCount: options.particleCount,
           angle: options.angle,
           spread: options.spread,
+          startVelocity: options.startVelocity,
+          decay: options.decay,
+          gravity: options.gravity,
+          drift: options.drift,
+          ticks: options.ticks,
           origin: {
             x: posX / window.innerWidth,
             y: posY / window.innerHeight
@@ -36,3 +41,4 @@ window.RevealConfetti = function () {
     },
   };
 };
+C
