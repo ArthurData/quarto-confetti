@@ -1,7 +1,11 @@
 ---
 title: "Confetti Example"
 format:
-  revealjs: default
+  revealjs: 
+    confetti:
+      particleCount: 150
+      angle: 90
+      spread: 360
 revealjs-plugins:
   - confetti
 ---

@@ -7,3 +7,8 @@ contributes:
     - name: RevealConfetti
       script:
         - confetti.js
+      config:
+        confetti:
+          particleCount: 50
+          angle: 90
+          spread: 45
