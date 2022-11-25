@@ -1,0 +1,9 @@
+title: Confetti
+author: Bréant Arthur
+version: 1.0.0
+quarto-required: ">=1.2.0"
+contributes:
+  revealjs-plugins:
+    - name: RevealConfetti
+      script:
+        - confetti.js
