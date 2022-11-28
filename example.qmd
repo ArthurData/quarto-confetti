@@ -11,6 +11,8 @@ format:
       gravity: 0.65
       drift: 0
       ticks: 400
+      colors: ["#0366fc", "#f54281", "#1fd14f"]
+      scalar: 0.7
 revealjs-plugins:
   - confetti
 ---

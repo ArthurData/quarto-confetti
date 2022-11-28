@@ -28,6 +28,11 @@ window.RevealConfetti = function () {
           gravity: options.gravity,
           drift: options.drift,
           ticks: options.ticks,
+          colors: options.colors,
+          shapes: options.shapes,
+          scalar: options.scalar,
+          zIndex: options.zIndex,
+          disableForReducedMotion: options.disableForReducedMotion,
           origin: {
             x: posX / window.innerWidth,
             y: posY / window.innerHeight
