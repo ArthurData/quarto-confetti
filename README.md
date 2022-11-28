@@ -64,3 +64,5 @@ More details about the options are available here: [canvas-confetti](https://git
 Use the `c` to send some 🎊🎊
 
 <img src="example.gif" width="100%"/></a>
+
+View an example : [https://ArthurData.github.io/quarto-confetti/](https://ArthurData.github.io/quarto-confetti/)
