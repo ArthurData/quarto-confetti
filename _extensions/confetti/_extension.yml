@@ -7,3 +7,18 @@ contributes:
     - name: RevealConfetti
       script:
         - confetti.js
+      config:
+        confetti:
+          particleCount: 50
+          angle: 90
+          spread: 45
+          startVelocity: 45
+          decay: 0.9
+          gravity: 1
+          drift: 0
+          ticks: 200
+          colors: null
+          shapes: null
+          scalar: 1
+          zIndex: 100
+          disableForReducedMotion: false
