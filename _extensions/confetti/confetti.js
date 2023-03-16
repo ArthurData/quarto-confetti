@@ -46,4 +46,3 @@ window.RevealConfetti = function () {
     },
   };
 };
-C
